@@ -3,8 +3,8 @@
 Aplicação web que exibe a **previsão do tempo atual e dos próximos dias**, com uma interface moderna, animações suaves e visual totalmente responsivo. Desenvolvido com foco em praticar consumo de APIs, manipulação de DOM e organização de código em projetos front-end.
 
 <div align="center">
-  <img src="/screenshot-home.png" alt="Tela inicial" width="100%"/>
-  <img src="/screenshot-forecast.png" alt="Tela com previsão" width="100%"/>
+  <img src="./public/screenshot-home.png" alt="Tela inicial" width="100%"/>
+  <img src="./public/screenshot-forecast.png" alt="Tela com previsão" width="100%"/>
 </div>
 
 ---
@@ -97,8 +97,8 @@ A chave da API foi movida para o arquivo `.env` e consumida via `import.meta.env
 Você pode ver a demonstração visual do projeto nas imagens abaixo:
 
 <div align="center">
-  <img src="/screenshot-alert.png" alt="Alerta de cidade não encontrada" width="100%"/>
-  <img src="/screenshot-alert2.png" alt="Alerta avisando para o usuário digitar uma cidade." width="100%"/>
+  <img src="./public/screenshot-alert.png" alt="Alerta de cidade não encontrada" width="100%"/>
+  <img src="./public/screenshot-alert2.png" alt="Alerta avisando para o usuário digitar uma cidade." width="100%"/>
 </div>
 
 ---
