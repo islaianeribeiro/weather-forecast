@@ -58,7 +58,7 @@ document.querySelector("#app").innerHTML = `
               <i id="humidity_icon" class="fa-solid fa-droplet"></i>
 
               <div>
-                <h2>Humidade</h2>
+                <h2>Umidade</h2>
                 <p id="humidity"></p>
               </div>
             </div>
