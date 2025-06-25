@@ -21,6 +21,18 @@ Aplicação web que exibe a **previsão do tempo atual e dos próximos dias**, c
 
 ---
 
+## 🌍 Funcionalidades
+
+- Pesquisa de cidade e exibição do clima atual;
+- Temperatura atual, máxima e mínima;
+- Umidade e velocidade do vento;
+- Ícone e descrição das condições climáticas;
+- Previsão para os **próximos 4 dias** mostrando temperatura máxima e mínima;
+- Layout responsivo e acessível;
+- Alertas visuais para erros ou cidade não encontrada.
+
+---
+
 ## 📦 Instalação e Execução
 
 ```bash
@@ -39,18 +51,6 @@ VITE_API_KEY=sua_chave_aqui
 # Execute a aplicação
 npm run dev
 ```
-
----
-
-## 🌍 Funcionalidades
-
-- Pesquisa de cidade e exibição do clima atual;
-- Temperatura atual, máxima e mínima;
-- Umidade e velocidade do vento;
-- Ícone e descrição das condições climáticas;
-- Previsão para os **próximos 4 dias** mostrando temperatura máxima e mínima;
-- Layout responsivo e acessível;
-- Alertas visuais para erros ou cidade não encontrada.
 
 ---
 
